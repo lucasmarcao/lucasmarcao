@@ -3,9 +3,9 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center"> Busco aprimorar sua rotina de trabalho e descobrir novas boas práticas em programação. Almejo o desenvolvimento pessoal através da ética profissional, comunicação e trabalho em equipe, bem como o desenvolvimento administrativo, focado em conceitos administrativos, aumento das noções de computação e prática na informática. 
-<br> 
-Com experiência como estagiário Front-End na Tytotech e formação em Ciência da Computação pela UTFPR, estou comprometido em evoluir continuamente na área de TI.
+<p align="center"> Busco aprimorar minha rotina de trabalho e adiquirir boas práticas em programação. Almejo o desenvolvimento pessoal através da ética profissional, comunicação e trabalho em equipe, bem como o desenvolvimento administrativo, focado em conceitos administrativos, aumento das noções de computação e prática na informática. 
+<br>
+Tendo experiência como estagiário Front-End na Tytotech e cursando Ciência da Computação pela UTFPR, estou comprometido em evoluir continuamente na área de TI.
 </p>&nbsp;
 
 
@@ -33,6 +33,8 @@ Com experiência como estagiário Front-End na Tytotech e formação em Ciência
 #### Conhecimento secundário(Secondary Stack):
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+
 
 #### Estou aprendendo (Studying in this moment):
 
@@ -60,10 +62,10 @@ Com experiência como estagiário Front-End na Tytotech e formação em Ciência
 
 ## Meu contato (Contacts):
 
-<div> 
+<div align="center"> 
 <a href="https://www.instagram.com/lucas.marcao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.lucas2004marcao@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.lucas2004marcao@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-ant%C3%B4nio-marc%C3%A3o-828448201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
