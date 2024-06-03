@@ -18,9 +18,9 @@ Tendo experiência como estagiário Front-End na Tytotech e cursando Ciência da
  &nbsp;
 
 
-## Minhas Habilidades (My Skills):
+##  Habilidades (My Skills):
 
-#### Meus conhecimentos Principais(Main Stack):
+####  Conhecimentos Principais(Main Stack):
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -30,7 +30,7 @@ Tendo experiência como estagiário Front-End na Tytotech e cursando Ciência da
 
 <img src="https://raw.githubusercontent.com/lucasmarcao/lucasmarcao/main/lucasmarcao/programa-ate-morrer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Conhecimento secundário(Secondary Stack):
+####  Conhecimentos secundários (Secondary Stack):
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
