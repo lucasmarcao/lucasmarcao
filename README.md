@@ -1,7 +1,7 @@
 
 <div  align="center">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasmarcao&theme=onedark-duo&locale=pt_BR" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
+<img width=55% heigth="200px" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasmarcao&theme=onedark-duo&locale=pt_BR" />
+<img width=40% heigth="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
 </div>
  &nbsp;
  &nbsp;
