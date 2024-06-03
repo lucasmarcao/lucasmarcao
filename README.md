@@ -32,12 +32,11 @@ Com experiência como estagiário Front-End na Tytotech e formação em Ciência
 
 #### Conhecimento secundário(Secondary Stack):
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 #### Estou aprendendo (Studying in this moment):
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
 
 #### Bancos de dados que já usei (Databases):
