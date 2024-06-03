@@ -1,8 +1,8 @@
 
 <div  align="center">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasmarcao&theme=onedark-duo&locale=pt_BR" />
-<img width=39% align="center" 
- src="https://github-readme-stats.vercel.app/api?username=lucasmarcao&show_icons=true&theme=synthwave" />
+<img width=40% align="center" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcao&layout=donut&show_icons=true&theme=synthwave" />
 </div>
  &nbsp;
  &nbsp;
