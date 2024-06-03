@@ -1,21 +1,19 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain;" width=100% src="https://raw.githubusercontent.com/lucasmarcao/lucasmarcao/main/lucasmarcao/javascript-maneiro-oliginal.gif" />
-&nbsp;&nbsp;&nbsp;
-
-
-<p align="center"> Busco aprimorar minha rotina de trabalho e adiquirir boas práticas em programação. Almejo o desenvolvimento pessoal através da ética profissional, comunicação e trabalho em equipe, bem como o desenvolvimento administrativo, focado em conceitos administrativos, aumento das noções de computação e prática na informática. 
-<br>
-Tendo experiência como estagiário Front-End na Tytotech e cursando Ciência da Computação pela UTFPR, estou comprometido em evoluir continuamente na área de TI.
-</p>&nbsp;
-
-
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:50px; margin-top:20px;">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
  &nbsp;
+ 
+<p align="center"> Busco aprimorar minha rotina de trabalho e adiquirir boas práticas em programação. Almejo o desenvolvimento pessoal através da ética profissional, comunicação e trabalho em equipe, bem como o desenvolvimento administrativo, focado em conceitos administrativos, aumento das noções de computação e prática na informática. 
+<br>
+Tendo experiência como estagiário Front-End na Tytotech e cursando Ciência da Computação pela UTFPR, estou comprometido em evoluir continuamente na área de TI.
+</p>&nbsp;
+
+<img align="center" style="margin-bottom:50px; margin-top:20px; object-fit: contain;" width=100% src="https://raw.githubusercontent.com/lucasmarcao/lucasmarcao/main/lucasmarcao/javascript-maneiro-oliginal.gif" />
+&nbsp;&nbsp;&nbsp;
 
 
 ## Minhas Habilidades (My Skills):
