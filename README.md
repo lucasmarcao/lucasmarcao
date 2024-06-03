@@ -1,6 +1,6 @@
 
 <div  align="center">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasmarcao&theme=onedark-duo&locale=pt_BR" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasmarcao&theme=onedark-duo&locale=pt_BR&card_height=200" />
 <img width=40% align="center" 
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcao&layout=donut&show_icons=true&theme=highcontrast&locale=pt-br" />
 </div>
