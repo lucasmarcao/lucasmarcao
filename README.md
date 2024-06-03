@@ -3,8 +3,9 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center"> testando quebra de linha <br> 
-funcionous???
+<p align="center"> Busco aprimorar sua rotina de trabalho e descobrir novas boas práticas em programação. Almejo o desenvolvimento pessoal através da ética profissional, comunicação e trabalho em equipe, bem como o desenvolvimento administrativo, focado em conceitos administrativos, aumento das noções de computação e prática na informática. 
+<br> 
+Com experiência como estagiário Front-End na Tytotech e formação em Ciência da Computação pela UTFPR, estou comprometido em evoluir continuamente na área de TI.
 </p>&nbsp;
 
 
@@ -17,7 +18,7 @@ funcionous???
  &nbsp;
 
 
-## Minhas Habilidades:
+## Minhas Habilidades (My Skills):
 
 #### Meus conhecimentos Principais(Main Stack):
 
@@ -36,19 +37,24 @@ funcionous???
 
 #### Estou aprendendo (Studying in this moment):
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
 
 #### Bancos de dados que já usei (Databases):
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 
 #### Ferramentas de trabalho (Workstation Tools):
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 
 &nbsp;
 &nbsp;
