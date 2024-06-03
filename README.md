@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; border-radius: 5px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/lucasmarcao/lucasmarcao/main/lucasmarcao/javascript-maneiro.gif" />
+<img align="center" style="margin-bottom:100px; object-fit: contain;" width=100% src="https://raw.githubusercontent.com/lucasmarcao/lucasmarcao/main/lucasmarcao/javascript-maneiro-oliginal.gif" />
 &nbsp;&nbsp;&nbsp;
 
 
