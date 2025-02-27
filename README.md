@@ -1,5 +1,5 @@
 <div  align="center">
-<img  align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com?user=lucasmarcao" />
+<img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=lucasmarcao&theme=radical"/>
 <img  align="center" width="35%"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcao&layout=donut&show_icons=true&theme=highcontrast&locale=pt-br" />
 </div>
