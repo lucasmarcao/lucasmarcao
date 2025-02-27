@@ -1,6 +1,6 @@
 <div  align="center">
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasmarcao&theme=radical"/>
-<img  align="center" width="35%"
+<img align="center" width="49%" style="margin-right:5px;" src="https://github-readme-stats.vercel.app/api?username=lucasmarcao&theme=radical"/>
+<img  align="center" width="36%"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcao&layout=donut&show_icons=true&theme=highcontrast&locale=pt-br" />
 </div>
  &nbsp;
